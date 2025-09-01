@@ -21,4 +21,8 @@ My Solutions of Codewars problems!
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/atafah/LeetCode/tree/master/0021-merge-two-sorted-lists) |
+## Math
+|  |
+| ------- |
+| [2812-find-the-maximum-achievable-number](https://github.com/atafah/LeetCode/tree/master/2812-find-the-maximum-achievable-number) |
 <!---LeetCode Topics End-->
