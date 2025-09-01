@@ -25,4 +25,12 @@ My Solutions of Codewars problems!
 |  |
 | ------- |
 | [2812-find-the-maximum-achievable-number](https://github.com/atafah/LeetCode/tree/master/2812-find-the-maximum-achievable-number) |
+## Two Pointers
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/atafah/LeetCode/tree/master/0344-reverse-string) |
+## String
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/atafah/LeetCode/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
