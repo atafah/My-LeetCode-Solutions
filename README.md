@@ -9,6 +9,7 @@ My Solutions of Codewars problems!
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/atafah/LeetCode/tree/master/0001-two-sum) |
+| [2058-concatenation-of-array](https://github.com/atafah/LeetCode/tree/master/2058-concatenation-of-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -34,4 +35,8 @@ My Solutions of Codewars problems!
 | ------- |
 | [0344-reverse-string](https://github.com/atafah/LeetCode/tree/master/0344-reverse-string) |
 | [3379-score-of-a-string](https://github.com/atafah/LeetCode/tree/master/3379-score-of-a-string) |
+## Simulation
+|  |
+| ------- |
+| [2058-concatenation-of-array](https://github.com/atafah/LeetCode/tree/master/2058-concatenation-of-array) |
 <!---LeetCode Topics End-->
