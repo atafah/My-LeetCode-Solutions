@@ -3,5 +3,4 @@ class Solution:
         ans = []
         for n in nums:
             ans.append(n)
-        ans *= 2
-        return ans
+        return ans*2
