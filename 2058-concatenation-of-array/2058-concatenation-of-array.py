@@ -4,6 +4,5 @@ class Solution:
         ans = []
         for n in nums:
             a.append(n)
-        ans.extend(a)
-        ans.extend(a)
+        ans = a * 2
         return ans
