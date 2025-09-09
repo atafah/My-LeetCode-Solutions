@@ -9,6 +9,7 @@ My Solutions of Codewars problems!
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/atafah/LeetCode/tree/master/0001-two-sum) |
+| [2048-build-array-from-permutation](https://github.com/atafah/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/atafah/LeetCode/tree/master/2058-concatenation-of-array) |
 ## Hash Table
 |  |
@@ -38,5 +39,6 @@ My Solutions of Codewars problems!
 ## Simulation
 |  |
 | ------- |
+| [2048-build-array-from-permutation](https://github.com/atafah/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/atafah/LeetCode/tree/master/2058-concatenation-of-array) |
 <!---LeetCode Topics End-->
