@@ -33,4 +33,5 @@ My Solutions of Codewars problems!
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/atafah/LeetCode/tree/master/0344-reverse-string) |
+| [3379-score-of-a-string](https://github.com/atafah/LeetCode/tree/master/3379-score-of-a-string) |
 <!---LeetCode Topics End-->
