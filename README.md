@@ -27,6 +27,7 @@ My Solutions of Codewars problems!
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/atafah/LeetCode/tree/master/0069-sqrtx) |
 | [2556-convert-the-temperature](https://github.com/atafah/LeetCode/tree/master/2556-convert-the-temperature) |
 | [2812-find-the-maximum-achievable-number](https://github.com/atafah/LeetCode/tree/master/2812-find-the-maximum-achievable-number) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/atafah/LeetCode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
@@ -45,4 +46,8 @@ My Solutions of Codewars problems!
 | ------- |
 | [2048-build-array-from-permutation](https://github.com/atafah/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/atafah/LeetCode/tree/master/2058-concatenation-of-array) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/atafah/LeetCode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
